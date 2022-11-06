@@ -1,3 +1,3 @@
 # VPN-block-FiveM
 
-VPN blocker For FiveM server.
+VPN-esto FiveM-palvelimelle.
